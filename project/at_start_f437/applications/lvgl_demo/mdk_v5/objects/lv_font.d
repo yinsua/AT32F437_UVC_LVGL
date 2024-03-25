@@ -1,0 +1,19 @@
+./objects/lv_font.o: \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\font\lv_font.c \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\font\lv_font.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\font\..\lv_conf_internal.h \
+  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\lv_conf_kconfig.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\lv_conf.h \
+  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdbool.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\font\lv_symbol_def.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\font\..\misc\lv_area.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\..\lv_conf_internal.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\font\..\misc\lv_utils.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\font\..\misc\lv_log.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_types.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\font\..\misc\lv_assert.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_log.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_mem.h \
+  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h

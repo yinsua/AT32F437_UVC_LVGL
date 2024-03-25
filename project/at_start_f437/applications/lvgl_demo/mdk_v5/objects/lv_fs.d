@@ -1,0 +1,33 @@
+./objects/lv_fs.o: \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_fs.c \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_fs.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\..\lv_conf_internal.h \
+  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\lv_conf_kconfig.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\lv_conf.h \
+  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdbool.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\..\misc\lv_assert.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_log.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_types.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_mem.h \
+  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_ll.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_gc.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_timer.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\..\hal\lv_hal_tick.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\hal\..\lv_conf_internal.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\..\draw\lv_img_cache.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\draw\lv_img_decoder.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\draw\..\lv_conf_internal.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\draw\lv_img_buf.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\draw\..\misc\lv_color.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_assert.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_math.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\draw\..\misc\lv_area.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\draw\..\misc\lv_fs.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\draw\..\misc\lv_types.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\..\draw\lv_draw_mask.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\draw\..\misc\lv_math.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\..\core\lv_obj_pos.h \
+  ..\..\..\..\..\middlewares\3rd_party\lvgl\src\core\..\misc\lv_area.h

@@ -1,0 +1,13 @@
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_tlsf.c
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\../lv_conf_internal.h
+.\objects\lv_tlsf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\../lv_conf_kconfig.h
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\demos\keypad_encoder\../../lv_conf.h
+.\objects\lv_tlsf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_tlsf.h
+.\objects\lv_tlsf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_mem.h
+.\objects\lv_tlsf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_types.h
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_log.h
+.\objects\lv_tlsf.o: ..\..\..\..\..\middlewares\3rd_party\lvgl\src\misc\lv_assert.h
